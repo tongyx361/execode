@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "execode"
+  site-url: "https://tongyx361.github.io/execode"
+  description: "Execute code in text efficiently and safely."
+  repo-branch: main
+  repo-url: "https://github.com/tongyx361/execode"
